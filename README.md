@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del módulo dos del PrepCourse de SoyHenry
+Este es un proyecto de como crear un repositorio y clonarlo a mi PC
